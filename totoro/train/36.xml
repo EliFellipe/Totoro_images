@@ -1,0 +1,26 @@
+<annotation>
+	<folder>totoro</folder>
+	<filename>36.jpeg</filename>
+	<path>C:\Users\Usuario\Pictures\totoro\36.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1198</width>
+		<height>628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Totoro</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>89</ymin>
+			<xmax>1057</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>
